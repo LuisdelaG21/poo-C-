@@ -86,6 +86,10 @@ Console.WriteLine(p1.X); // 10 — p1 no fue afectado, son copias independientes
 
 **Igualdad por valor**: dos struct son iguales *si todos sus campos tienen el mismo valor*. Esto viene automáticamente.  
 
+![Estructura struct](./Resources/Estructura%20struct.png)  
+
+> Con **struct**, el heap no aparece en ningún momento. Cada variable tiene su propia copia completa del dato incrustada directamente en el stack, por lo que modificar p2 nunca puede sorprenderte tocando p1.
+
 No soporta herencia (aunque sí puede implementar **interfaces** --> *se verá más adelante*). Al ser copiado en cada asignación, un struct grande puede ser contraproducente — el costo de copiar 100 campos en cada operación supera el beneficio de evitar el heap.  
 
 >> **¿Cuándo usar struct?** Cuando el tipo es pequeño (2-4 campos), representa un valor simple sin identidad, y se usa mucho en colecciones o bucles. Ejemplos: *Point*, *Vector3*, *Color*, *DateTime*.  
