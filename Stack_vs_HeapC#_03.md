@@ -61,7 +61,9 @@ La memoria de una aplicación se divide principalmente en tres secciones: **cód
 
 > Video completo  
  
- <a href="https://www.youtube.com/watch?v=5OJRqkYbK-4
+<!--  <a href="https://www.youtube.com/watch?v=5OJRqkYbK-4
 " target="_blank"><img src="https://img.youtube.com/vi/5OJRqkYbK-4/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="360" height="280" border="2" /></a>
+alt="IMAGE ALT TEXT HERE" width="360" height="280" border="2" /></a> -->
+
+[![Video completo](https://img.youtube.com/vi/5OJRqkYbK-4/0.jpg)](https://www.youtube.com/watch?v=5OJRqkYbK-4)
 
