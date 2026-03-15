@@ -2,7 +2,7 @@
 
 El lenguaje C# tiene varios recursos y funciones integradas que son muy útiles de aprender para mejorar nuestro nivel de programación.
 
-### Modificadores de Strings  
+## Modificadores de Strings  
 1. Un string puede tener varios argumentos "concatenados". A esto se le conoce como **concatenación de cadenas de caracteres**, por ejemplo:  
 ```c#
 string message = "Hola Morty" + "soy tu abuelo Rick!";
@@ -15,7 +15,9 @@ string message = "Hola Morty\n" + "soy tu abuelo \"Rick\"!";
 Output:
 >>> Hola Morty 
     soy tu abuelo "Rick"!
-``` 
+```  
+---
+
 2. Otra manera de hacer saltos multilínea es usando el recurso @ llamado **literal de cadena literal**, le dice al compilador que trate la cadena literalmente, lo que significa que ignora las secuencias de escape (como \n para nueva línea o \\ para barra invertida). Ejemplos de uso:  
     + Para saltos de línea sin usar \n:  
     ```c#
@@ -38,7 +40,8 @@ Output:
     + Para escribir rutas de archivos (paths) sin tener que usar \\\ como se suele hacer comunmente:
     ```c#
     string ruta = @"C:\Users\Bienvenido\Desktop";
-    ```  
+    ```   
+---
 3. **Interpolación de cadena** es un recurso que nos permite insertar o imprimir valores de las variables o expresiones directamente dentro de la cadena usando llaves { }. Se implementa anteponiendo el símbolo $ antes de las comillas:  
 ```c#
 string personaje = "Morty";
@@ -69,7 +72,8 @@ Output:
 ```  
 > Para colocar comillas dentro de un string normal o con interpolación de cadenas usamos \\", para las cadenas literales simplemente duplicamos los símbolos """". Las comillas simples ' ' no suelen dar problemas.  
 
-> Para el caso de los **backslash**, usamos soble diagonal \\\ o mejor aún, con el recurso de cadenas literales @, simplemente la colocamos una sola vez \.
+> Para el caso de los **backslash**, usamos soble diagonal \\\ o mejor aún, con el recurso de cadenas literales @, simplemente la colocamos una sola vez \.  
+
 
 
 
