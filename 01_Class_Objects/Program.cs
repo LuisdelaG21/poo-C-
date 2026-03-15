@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-// Porgram.cs es la clase que ejecuta la consola, es la clase main o base
+// Program.cs es la clase que ejecuta la consola, es la clase main o base
 
 // Instanciación (creamos un nuevo objeto)
 // Una instancia siempre inicia con el nombre de la clase
