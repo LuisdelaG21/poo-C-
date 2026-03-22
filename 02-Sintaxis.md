@@ -18,7 +18,7 @@ Output:
 ```  
 ---
 
-2. Otra manera de hacer saltos multilínea es usando el recurso @ llamado **literal de cadena literal**, le dice al compilador que trate la cadena literalmente, lo que significa que ignora las secuencias de escape (como \n para nueva línea o \\ para barra invertida). Ejemplos de uso:  
+2. Otra manera de hacer saltos multilínea es usando el recurso @ llamado **recurso de cadena literal o textual**, le dice al compilador que trate la cadena literalmente, lo que significa que ignora las secuencias de escape (como \n para nueva línea o \\ para barra invertida). Ejemplos de uso:  
     + Para saltos de línea sin usar \n:  
     ```c#
     string message = @"Hola morty
