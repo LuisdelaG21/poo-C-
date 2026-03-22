@@ -18,6 +18,3 @@ Console.WriteLine(redApple.DescribeMe);
 
 Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine(greenApple.DescribeMe);
-
-
-

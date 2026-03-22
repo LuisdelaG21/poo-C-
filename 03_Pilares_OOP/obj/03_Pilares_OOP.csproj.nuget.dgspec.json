@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Herencia_OOP\\03_Herencia_OOP.csproj": {}
+    "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Pilares_OOP\\03_Pilares_OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Herencia_OOP\\03_Herencia_OOP.csproj": {
+    "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Pilares_OOP\\03_Pilares_OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Herencia_OOP\\03_Herencia_OOP.csproj",
-        "projectName": "03_Herencia_OOP",
-        "projectPath": "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Herencia_OOP\\03_Herencia_OOP.csproj",
+        "projectUniqueName": "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Pilares_OOP\\03_Pilares_OOP.csproj",
+        "projectName": "03_Pilares_OOP",
+        "projectPath": "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Pilares_OOP\\03_Pilares_OOP.csproj",
         "packagesPath": "C:\\Users\\Bienvenido\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Herencia_OOP\\obj\\",
+        "outputPath": "C:\\Users\\Bienvenido\\Desktop\\POO_C#\\03_Pilares_OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
