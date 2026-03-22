@@ -30,7 +30,7 @@ Pensemos en un objeto el cual tenga una propiedad requerida desde su **creación
         public string owner;
 
         public BankAccount(){
-            owner = "Some customer"
+            owner = "Some customer";
         }
     }
     ```  
@@ -48,7 +48,7 @@ También podemos pasarles parámetros a nuestro constructor.
         public string owner;
 
         public BankAccount(string theOwner){
-            owner = "Some customer"
+            owner = theOwner;
         }
     }
     ```  
@@ -66,11 +66,11 @@ class BankAccount {
         public string owner;
 
         public BankAccount(){
-            owner = "Some customer"
+            owner = "Some customer";
         }
 
         public BankAccount(string theOwner){
-            owner = "Some customer"
+            owner = theOwner;
         }
     }
 ```   
