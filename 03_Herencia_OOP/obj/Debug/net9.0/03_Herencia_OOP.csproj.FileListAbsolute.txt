@@ -1,0 +1,15 @@
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\03_Herencia_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\03_Herencia_OOP.AssemblyInfoInputs.cache
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\03_Herencia_OOP.AssemblyInfo.cs
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\03_Herencia_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\03_Herencia_OOP.sourcelink.json
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\bin\Debug\net9.0\03_Herencia_OOP.exe
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\bin\Debug\net9.0\03_Herencia_OOP.deps.json
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\bin\Debug\net9.0\03_Herencia_OOP.runtimeconfig.json
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\bin\Debug\net9.0\03_Herencia_OOP.dll
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\bin\Debug\net9.0\03_Herencia_OOP.pdb
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\03_Herencia_OOP.dll
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\refint\03_Herencia_OOP.dll
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\03_Herencia_OOP.pdb
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\03_Herencia_OOP.genruntimeconfig.cache
+C:\Users\Bienvenido\Desktop\POO_C#\03_Herencia_OOP\obj\Debug\net9.0\ref\03_Herencia_OOP.dll

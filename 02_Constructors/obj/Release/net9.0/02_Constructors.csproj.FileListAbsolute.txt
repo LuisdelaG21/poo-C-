@@ -1,0 +1,15 @@
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\bin\Release\net9.0\02_Constructors.exe
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\bin\Release\net9.0\02_Constructors.deps.json
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\bin\Release\net9.0\02_Constructors.runtimeconfig.json
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\bin\Release\net9.0\02_Constructors.dll
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\bin\Release\net9.0\02_Constructors.pdb
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\02_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\02_Constructors.AssemblyInfoInputs.cache
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\02_Constructors.AssemblyInfo.cs
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\02_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\02_Constructors.sourcelink.json
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\02_Constructors.dll
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\refint\02_Constructors.dll
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\02_Constructors.pdb
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\02_Constructors.genruntimeconfig.cache
+C:\Users\Bienvenido\Desktop\POO_C#\02_Constructors\obj\Release\net9.0\ref\02_Constructors.dll
