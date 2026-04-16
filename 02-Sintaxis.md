@@ -9,7 +9,7 @@ string message = "Hola Morty" + "soy tu abuelo Rick!";
 Output:
 >>> Hola Morty soy tu abuelo Rick!
 ```  
-+ También podemos agregar saltos de línea con el recurso \n y comillas con el recurso \":
++ También podemos agregar saltos de línea con el recurso \n y comillas con el recurso \\":
 ```c#
 string message = "Hola Morty\n" + "soy tu abuelo \"Rick\"!";
 Output:
